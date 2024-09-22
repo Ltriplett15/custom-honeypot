@@ -1,0 +1,2 @@
+# Minimum Python version
+python_version >= 3.8
