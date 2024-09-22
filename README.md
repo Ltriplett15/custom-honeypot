@@ -1,7 +1,3 @@
-Certainly! Below is a comprehensive documentation for your **Custom Honeypot** project. This documentation will help users install, configure, and use the honeypot, as well as understand its purpose and limitations. You can place this in your repository's `README.md` file.
-
----
-
 # **Custom Honeypot**
 
 ## **Overview**
